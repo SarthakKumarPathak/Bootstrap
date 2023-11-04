@@ -1,1 +1,1 @@
-# Bootstrap
+This contains app landing project.
